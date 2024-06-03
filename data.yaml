@@ -1,0 +1,5 @@
+train: C:\Users\anubh\Desktop\Hindi-OCR\data\train\images
+val: C:\Users\anubh\Desktop\Hindi-OCR\data\valid\images
+
+nc: 1
+names: ["document"]

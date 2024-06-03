@@ -1,1 +1,1 @@
-# hindi-ocr
+# Hindi-OCR
